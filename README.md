@@ -1,5 +1,5 @@
 <h3 align="center">
-  Welcome to Utsav's profile!
+  Welcome to Ashish's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 <p align="center">
@@ -19,7 +19,7 @@
   💬 Ask me about for any help
 
   📫 How to reach me:  
-  Mail me at "utsavtiwari030@gmail.com"
+  Mail me at "m.ashish1920@gmail.com"
 
 
 
